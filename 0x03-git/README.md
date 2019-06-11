@@ -1,3 +1,3 @@
 **Git project**
 
-How to use Git and make READMEs
+How to use Git , make READMEs and create new files
