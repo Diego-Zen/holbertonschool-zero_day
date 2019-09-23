@@ -7,4 +7,4 @@ Initial repository for readme file and testing files
 
 ## Maintainer
 
-@Diego -Zen
+Diego Monroy - diegozencode
