@@ -7,4 +7,4 @@ Initial repository for readme file and testing files
 
 ## Author
 
-Diego Monroy - diegozencode
+Diego Monroy - @diegozencode
