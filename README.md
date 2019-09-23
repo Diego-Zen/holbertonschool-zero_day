@@ -5,6 +5,6 @@ Initial repository for readme file and testing files
 ## date
 2019
 
-## Maintainer
+## Author
 
 Diego Monroy - diegozencode
