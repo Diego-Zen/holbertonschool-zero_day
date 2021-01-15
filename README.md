@@ -1,6 +1,6 @@
 # Holberton 0-Day
 ![Holberton logo](https://www.holbertonschool.com/holberton-logo.png)
-> Fundamentals - intro
+> Foundations - intro
 
 
 ## Intro to
