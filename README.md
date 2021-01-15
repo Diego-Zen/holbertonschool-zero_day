@@ -7,7 +7,7 @@
 * Vagrant
 * Emacs
 * Vi/Vim
-* Git/Github>
+* Git/Github
 * Professional Technologies
 
 ## Date
