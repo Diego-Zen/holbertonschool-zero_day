@@ -82,7 +82,7 @@ $ vagrant box remove [name-image]
 ---
 
 ## Mind Map:bookmark:
-![Vagrant Mind Map](https://github.com/diegozencode/holbertonschool-zero_day/tree/master/mind-maps/Vagrant-mindmap.png)
+![Vagrant Mind Map](https://github.com/diegozencode/holbertonschool-zero_day/blob/master/mind-maps/vagrant-mindmap.png?raw=true)
 
 ---
 
